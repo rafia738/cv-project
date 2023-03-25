@@ -100,3 +100,36 @@ hr {
 .skill ul li{
   list-style: disc;  
 }
+/* education section start */
+.edu-template-left{
+   float: left; 
+   width: 45%;
+}
+.edu-template-right{
+float: left;
+width: 45%;
+}
+.ref-template-left{
+    float: left; 
+    width: 45%;
+ }
+ .ref-template-right{
+    float: left; 
+    width: 45%;
+ }
+ /* footer section start */
+ .bottom-container{
+ background-color: black;
+    text-align: center;
+    padding: 10px;
+ }
+ .bottom-container a{
+    color:white;
+    text-decoration: none;
+    margin: 20px;
+ }
+ .bottom-container p{
+    color: white;
+    margin-top: 20px;
+ }
+
